@@ -1,0 +1,7 @@
+File detection and indent rules for MOO code (http://lambdamoo.sourceforge.net)
+
+The ident requires Moshe Kamensky's genindent.vim plugin from
+http://www.vim.org/scripts/script.php?script_id=678
+
+These files are meant to go somewhere in Vim's runtimepath. I prefer putting
+them into ~/.vim/
